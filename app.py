@@ -22,4 +22,4 @@ def nameLength(name):
 
 # Calculate name lenght
 length = nameLength(firstName)
-print(firstName, 'snanssa on', length, 'kirjainta')
+print(firstName, 'sanassa on', length, 'kirjainta')
