@@ -3,7 +3,7 @@
 # Kirjastojen ja modulien lataus
 from calendar import c
 import datetime
-from inspect 
+from inspect
 
 # Luokka-määritykset
 
